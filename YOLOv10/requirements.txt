@@ -1,0 +1,16 @@
+torch
+torchvision
+onnx
+onnxruntime
+pycocotools
+PyYAML
+scipy
+onnxsim
+onnxruntime-gpu
+psutil
+opencv-python
+tqdm
+requests
+pandas
+gdown
+tensorboard
